@@ -1,4 +1,8 @@
 # Joulu-verkkokauppa
+Osana Web-Julkaisujärjestelmät kurssia. 
+Worpress sivu on joulu teemainen verkkokauppa.
+Työ on tehty wordpressiä käyttäyen. Käytin Elementor, Multi-commerce ja paljon muita plugineja sivun luomiseen.
+
 
 ![wp](https://user-images.githubusercontent.com/60491377/199199175-dfb6fd0c-94b4-4246-bd66-ffdf9c73755c.PNG)
 ![wp2](https://user-images.githubusercontent.com/60491377/199199631-131ba01d-30be-41f1-ac8a-0d565355c292.PNG)
