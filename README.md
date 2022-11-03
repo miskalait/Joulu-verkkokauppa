@@ -2,6 +2,7 @@
 Osana Web-Julkaisujärjestelmät kurssia. 
 Worpress sivu on joulu teemainen verkkokauppa.
 Työ on tehty wordpressiä käyttäyen. Käytin Elementor, Multi-commerce ja paljon muita plugineja sivun luomiseen.
+<br>
 Sivu tulossa Git pagesiin jos mahdollista.
 
 ![wp](https://user-images.githubusercontent.com/60491377/199199175-dfb6fd0c-94b4-4246-bd66-ffdf9c73755c.PNG)
