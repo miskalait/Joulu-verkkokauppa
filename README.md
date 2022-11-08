@@ -1,4 +1,4 @@
-# Joulu-verkkokauppa
+# wp-verkkokauppa
 Osana Web-Julkaisujärjestelmät kurssia. 
 <br>
 Worpress sivu on joulu teemainen verkkokauppa.
